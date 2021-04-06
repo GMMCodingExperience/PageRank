@@ -12,8 +12,8 @@ Hier findet ihr alle Python Notebooks für den Workshop
 
 ## (Info) Python Einführung
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PageRank/HEAD?filepath=PythonEinfuehrung.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PythonNotebooks/HEAD?filepath=PythonEinfuehrung.ipynb)
 
 ## (Optional) Page Rank
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PageRank/HEAD?filepath=PageRank.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PythonNotebooks/HEAD?filepath=PageRank.ipynb)
