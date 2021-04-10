@@ -4,9 +4,18 @@ Hier findet ihr alle Python Notebooks für den Workshop
 
 ## BubbleSort
 
+In diesem Notebook wird anhand eines Beispiel zusammengeführt, was ihr bisher über Suchen und Sortieren gelernt habt
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PythonNotebooks/HEAD?filepath=BubbleSort.ipynb)
+
 ## QuickSort
 
+In diesem Notebook wird anhand eines Beispiel zusammengeführt, was ihr bisher über Suchen und Sortieren gelernt habt
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PythonNotebooks/HEAD?filepath=QuickSort.ipynb)
+
 ## BinarySearch
+
+In diesem Notebook wird anhand eines Beispiel zusammengeführt, was ihr bisher über Suchen und Sortieren gelernt habt
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PythonNotebooks/HEAD?filepath=BinarySearch.ipynb)
 
 ## Suchen, Sortieren, Google
 
