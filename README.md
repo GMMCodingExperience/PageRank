@@ -29,5 +29,5 @@ Hier findet ihr eine Kurzeinführung in Python. Falls ihr nicht weiterkommt, kan
 
 ## (Optional) Page Rank
 
-Ihr habt das Programmieren für euch entdeckt und Lust auf mehr. Dann versucht euch am Page Rank Algorithmus, der herausfindet wie wichtig eine Websieite ist
+Ihr habt das Programmieren für euch entdeckt und Lust auf mehr. Dann versucht euch am Page Rank Algorithmus, der herausfindet wie wichtig eine Webseite ist
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GMMCodingExperience/PythonNotebooks/HEAD?filepath=PageRank.ipynb)
